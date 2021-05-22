@@ -1,0 +1,29 @@
+.lead__image {
+  width: 100vw;
+  height: 62.5vw;
+  box-sizing: border-box;
+  background-image: url(../../../images/kalegin-michail-179870-unsplash_route_small.jpg);
+  background-position: center;
+  background-size: cover;
+  margin-top: 40px;
+}
+@media screen and (min-width: 768px) {
+  .lead__image {
+    background-image: url(../../../images/kalegin-michail-179870-unsplash_route.jpg);
+    margin-top: 56px;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .lead__image {
+    width: 928px;
+    height: 580px;
+    margin: 56px auto 0;
+  }
+}
+@media screen and (min-width: 1280px) {
+  .lead__image {
+    width: 984px;
+    height: 615px;
+    margin: 64px auto 0;
+  }
+}

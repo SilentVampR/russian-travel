@@ -1,23 +1,28 @@
-.intro {
-  width: 90vw;
+.places {
   min-width: 288px;
-  margin: 64px auto 0;
+  margin-top: 64px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
+
 @media screen and (min-width: 768px) {
-  .intro {
+  .places {
     width: 93.75vw;
     margin: 88px auto 0;
   }
 }
+
 @media screen and (min-width: 1024px) {
-  .intro {
+  .places {
     width: 90.625vw;
-    margin: 92px auto 0;
+    margin: 80px auto 0;
   }
 }
+
 @media screen and (min-width: 1280px) {
-  .intro {
+  .places {
     width: 76.875vw;
-    margin: 56px auto 0;
+    margin: 92px auto 0;
   }
 }

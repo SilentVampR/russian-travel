@@ -1,0 +1,12 @@
+.footer__item {
+
+}
+.footer__item:nth-of-type(n+2) {
+  margin-top: 32px;
+}
+@media screen and (min-width: 768px) {
+  .footer__item:nth-of-type(n+2) {
+    margin-top: 0;
+    margin-left: 18px;
+  }
+}

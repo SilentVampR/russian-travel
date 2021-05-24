@@ -5,6 +5,7 @@
   line-height: 20px;
   color: white;
   max-width: 288px;
+  min-width: 288px;
   margin: 16px auto 0;
 }
 @media screen and (min-width: 768px) {
@@ -14,8 +15,4 @@
     max-width: 640px;
     margin-top: 32px;
   }
-}
-@media screen and (min-width: 1024px) {
-}
-@media screen and (min-width: 1280px) {
 }

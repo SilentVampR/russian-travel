@@ -7,6 +7,7 @@
   text-transform: uppercase;
   letter-spacing: 0.15em;
   color: white;
+  min-width: 288px;
 }
 @media screen and (min-width: 768px) {
   .lead__caption {
@@ -15,12 +16,12 @@
 }
 @media screen and (min-width: 1024px) {
   .lead__caption {
-    max-width: 928px;
+    max-width: 90.625vw;
     margin: 8px 0 0;
   }
 }
 @media screen and (min-width: 1280px) {
   .lead__caption {
-    max-width: 984px;
+    max-width: 92.5vw;
   }
 }

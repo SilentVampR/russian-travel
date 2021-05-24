@@ -1,24 +1,26 @@
 .header {
   display: flex;
   justify-content: space-between;
-  width: 288px;
+  width: 90vw;
+  min-width: 288px;
   margin: 16px auto 0;
 }
 
 @media screen and (min-width: 768px) {
   .header {
-    width: 720px;
+    width: 93.75vw;
     margin: 28px auto 0;
   }
 }
+
 @media screen and (min-width: 1024px) {
   .header {
-    width: 928px;
+    width: 90.625vw;
   }
 }
 
 @media screen and (min-width: 1280px) {
   .header {
-    width: 1184px;
+    width: 92.5vw;
   }
 }

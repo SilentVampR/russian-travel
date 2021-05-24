@@ -1,6 +1,8 @@
 .lead__image {
   width: 100vw;
+  min-width: 288px;
   height: 62.5vw;
+  min-height: 200px;
   box-sizing: border-box;
   background-image: url(../../../images/kalegin-michail-179870-unsplash_route_small.jpg);
   background-position: center;
@@ -15,15 +17,15 @@
 }
 @media screen and (min-width: 1024px) {
   .lead__image {
-    width: 928px;
-    height: 580px;
+    width: 90.625vw;
+    height: 56.640625vw;
     margin: 56px auto 0;
   }
 }
 @media screen and (min-width: 1280px) {
   .lead__image {
-    width: 984px;
-    height: 615px;
+    width: 76.875vw;
+    height: 48.046875vw;
     margin: 64px auto 0;
   }
 }

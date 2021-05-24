@@ -6,13 +6,13 @@
 }
 @media screen and (min-width: 1024px) {
   .lead {
-    width: 928px;
+    width: 90.625vw;
     margin: 48px auto 0;
   }
 }
 @media screen and (min-width: 1280px) {
   .lead {
-    width: 984px;
+    width: 76.875vw;
     margin: 56px auto 0;
   }
 }

@@ -1,9 +1,9 @@
 .lead__title{
-  text-align: center;
-  font-family: Inter;
+  font-family: Inter, Arial, Helvetica, sans-serif;
   font-weight: 900;
   font-size: 40px;
   line-height: 44px;
+  text-align: center;
   margin: 0 auto;
   padding: 0;
   color: white;

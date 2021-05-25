@@ -9,6 +9,7 @@
   transition: opacity 0.5s linear 0s;
   margin: 0;
   padding: 0;
+  width: 90vw;
   max-width: 90vw;
   min-width: 288px;
 }

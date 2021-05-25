@@ -6,6 +6,14 @@
   padding: 0;
   margin: 0;
   text-decoration: none;
+  opacity: 1;
+  -webkit-transition: opacity 0.5s linear 0s;
+  -o-transition: opacity 0.5s linear 0s;
+  transition: opacity 0.5s linear 0s;
+}
+
+.footer__link:hover {
+  opacity: 0.5;
 }
 
 @media screen and (min-width: 768px) {

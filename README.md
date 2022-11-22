@@ -39,7 +39,7 @@
 
 Ссылка на проект [Путешествие по России](https://silentvampr.github.io/russian-travel/)
 
-** Стек **
+**Стек**
 
 HTML, CSS
 

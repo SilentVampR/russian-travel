@@ -39,5 +39,9 @@
 
 Ссылка на проект [Путешествие по России](https://silentvampr.github.io/russian-travel/)
 
+** Стек **
+
+HTML, CSS
+
 | Да прибудет с вами сила |
 
